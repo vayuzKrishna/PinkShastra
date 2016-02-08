@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_id": "arcane-atom-119512",
+    "project_number": "882778509823",
+    "name": "SalontripAdmin"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882778509823:android:9efbb93c32d8e06d",
+        "client_id": "android:om.salontripadmin.eagloo.salontripadmin",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "om.salontripadmin.eagloo.salontripadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
